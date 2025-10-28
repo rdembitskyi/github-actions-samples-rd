@@ -117,7 +117,7 @@ The `kustomization.yaml` is updated automatically by the GitHub workflow to add 
 images:
 - name: hello-gitops
   newTag: baadd7d7832f74e3c6d37b3f07b179d7e86c4017
-  newName: elisska/hello-gitops
+  newName: rdembio/hello-gitops
 ```
 
 No need to touch these settings as they are updated by the workflow.
