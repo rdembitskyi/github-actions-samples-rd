@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: rdembio/hello-gitops
-  newTag: f8c3df9b7c194234d604ab5910666f80367e2982
+  newTag: 7ffe22ad7579b492e0d1fc8adf259b554f7b8a63
